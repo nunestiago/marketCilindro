@@ -1,12 +1,14 @@
 {
-  "name": "desafio-m03",
+  "name": "desafiom03",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://nunestiago.github.io/marketcilindros",
+  "homepage": "https://marketcilindros.netlify.app/",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
     "@material-ui/lab": "^4.0.0-alpha.60",
+    "@material-ui/styles": "^4.11.4",
+    "clsx": "^1.1.1",
+    "eslint-config-airbnb": "^18.2.1",
     "material-ui-image": "^3.3.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -41,8 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
   }
 }

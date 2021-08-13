@@ -18,15 +18,18 @@ function StoreProducts() {
 
   useEffect(() => {
     getData();
-  }, [token]);
+  });
 
   async function getData() {
     try {
-      const response = await fetch('https://stark-coast-12913.herokuapp.com/produtos', {
-        headers: {
-          Authorization: 'Bearer ' + token,
-        },
-      });
+      const response = await fetch(
+        'https://stark-coast-12913.herokuapp.com/produtos',
+        {
+          headers: {
+            Authorization: 'Bearer ' + token,
+          },
+        }
+      );
       const data = await response.json();
       setProducts(data);
     } catch (error) {
