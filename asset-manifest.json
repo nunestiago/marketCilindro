@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/marketCilindro/static/css/main.eb4eb4d4.chunk.css",
+    "main.js": "/marketCilindro/static/js/main.fe5064d5.chunk.js",
+    "main.js.map": "/marketCilindro/static/js/main.fe5064d5.chunk.js.map",
+    "runtime-main.js": "/marketCilindro/static/js/runtime-main.9f558951.js",
+    "runtime-main.js.map": "/marketCilindro/static/js/runtime-main.9f558951.js.map",
+    "static/js/2.aa008ebf.chunk.js": "/marketCilindro/static/js/2.aa008ebf.chunk.js",
+    "static/js/2.aa008ebf.chunk.js.map": "/marketCilindro/static/js/2.aa008ebf.chunk.js.map",
+    "index.html": "/marketCilindro/index.html",
+    "static/css/main.eb4eb4d4.chunk.css.map": "/marketCilindro/static/css/main.eb4eb4d4.chunk.css.map",
+    "static/js/2.aa008ebf.chunk.js.LICENSE.txt": "/marketCilindro/static/js/2.aa008ebf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f558951.js",
+    "static/js/2.aa008ebf.chunk.js",
+    "static/css/main.eb4eb4d4.chunk.css",
+    "static/js/main.fe5064d5.chunk.js"
+  ]
+}
